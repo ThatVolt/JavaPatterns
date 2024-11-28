@@ -40,14 +40,14 @@ git clone https://github.com/your-username/JavaPatterns.git
 ### **Run The Java Program**:
 
 - 1. Open the Project in VS Code (or your preferred IDE).
-- Make sure you have Java Development Kit (JDK) installed.
-- You can check if Java is installed by running java -version in your terminal.
+-     Make sure you have Java Development Kit (JDK) installed.
+-     You can check if Java is installed by running java -version in your terminal.
 - 2. Navigate to the src folder.
-- Inside src, you will find BasicPatterns.java and AdvancedPatterns.java.
+-     Inside src, you will find BasicPatterns.java and AdvancedPatterns.java.
 - 3. Compile and Run the Java Files:
-- Open the terminal in VS Code (or use any terminal).
-- Navigate to the src folder where the Java files are located.
-- To compile a file, run:
+-     Open the terminal in VS Code (or use any terminal).
+-     Navigate to the src folder where the Java files are located.
+-     To compile a file, run:
 
 ```bash
 javac BasicPatterns.java

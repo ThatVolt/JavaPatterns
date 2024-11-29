@@ -46,7 +46,6 @@ git clone https://github.com/your-username/JavaPatterns.git
 
 2. **Install Java Development Kit (JDK)**  
    Ensure you have Java Development Kit (JDK) installed on your machine.  
-   You can check if Java is installed by running the following command in your terminal:  
 
 3. **Navigate to the `src` Folder**  
 Inside the project directory, go to the `src` folder where the Java files are located.  
